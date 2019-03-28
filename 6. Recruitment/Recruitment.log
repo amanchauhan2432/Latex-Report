@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.23)  28 MAR 2019 14:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.23)  28 MAR 2019 16:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -504,6 +504,11 @@ Package pdftex.def Info: image1.jpg  used on input line 37.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./image1.jpg>]
+<Border48-A4--Arvin61r58.png, id=11, 601.54147pt x 850.23529pt>
+File: Border48-A4--Arvin61r58.png Graphic file (type png)
+<use Border48-A4--Arvin61r58.png>
+Package pdftex.def Info: Border48-A4--Arvin61r58.png  used on input line 49.
+(pdftex.def)             Requested size: 597.54724pt x 845.08272pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 53.
@@ -519,76 +524,98 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 62.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 62.
-<image2.jpg, id=11, 786.94pt x 1059.96pt>
+<image2.jpg, id=12, 786.94pt x 1059.96pt>
 File: image2.jpg Graphic file (type jpg)
 <use image2.jpg>
 Package pdftex.def Info: image2.jpg  used on input line 77.
 (pdftex.def)             Requested size: 190.0pt x 255.91592pt.
  [2
 
- <./image2.jpg>]
-<image3.jpg, id=16, 1059.96pt x 786.94pt>
+ <./Border48-A4--Arvin61r58.png> <./image2.jpg>]
+<5TRrp44jc.png, id=18, 591.3pt x 783.144pt>
+File: 5TRrp44jc.png Graphic file (type png)
+<use 5TRrp44jc.png>
+Package pdftex.def Info: 5TRrp44jc.png  used on input line 84.
+(pdftex.def)             Requested size: 597.55113pt x 845.05399pt.
+<image9.jpeg, id=20, 786.94pt x 1059.96pt>
+File: image9.jpeg Graphic file (type jpg)
+<use image9.jpeg>
+Package pdftex.def Info: image9.jpeg  used on input line 88.
+(pdftex.def)             Requested size: 189.99818pt x 213.39536pt.
+<image3.jpg, id=21, 1059.96pt x 786.94pt>
 File: image3.jpg Graphic file (type jpg)
 <use image3.jpg>
-Package pdftex.def Info: image3.jpg  used on input line 98.
+Package pdftex.def Info: image3.jpg  used on input line 97.
 (pdftex.def)             Requested size: 190.0pt x 141.0547pt.
-<image5.jpg, id=17, 1059.96pt x 786.94pt>
+<image5.jpg, id=22, 1059.96pt x 786.94pt>
 File: image5.jpg Graphic file (type jpg)
 <use image5.jpg>
-Package pdftex.def Info: image5.jpg  used on input line 103.
+Package pdftex.def Info: image5.jpg  used on input line 102.
 (pdftex.def)             Requested size: 190.0pt x 141.0547pt.
 
-[3 <./image3.jpg> <./image5.jpg>]
-<image4.jpg, id=21, 1059.96pt x 786.94pt>
+Overfull \vbox (17.45006pt too high) has occurred while \output is active []
+
+
+[3 <./5TRrp44jc.png> <./image9.jpeg> <./image3.jpg> <./image5.jpg>]
+File: 5TRrp44jc.png Graphic file (type png)
+<use 5TRrp44jc.png>
+Package pdftex.def Info: 5TRrp44jc.png  used on input line 109.
+(pdftex.def)             Requested size: 597.55113pt x 845.05399pt.
+<image10.jpeg, id=27, 1059.96pt x 786.94pt>
+File: image10.jpeg Graphic file (type jpg)
+<use image10.jpeg>
+Package pdftex.def Info: image10.jpeg  used on input line 115.
+(pdftex.def)             Requested size: 190.0pt x 141.0547pt.
+<image11.jpeg, id=28, 782.925pt x 1043.9pt>
+File: image11.jpeg Graphic file (type jpg)
+<use image11.jpeg>
+Package pdftex.def Info: image11.jpeg  used on input line 120.
+(pdftex.def)             Requested size: 190.0pt x 253.32861pt.
+ [4 <./image10.jpeg> <./image11.jpeg>]
+File: 5TRrp44jc.png Graphic file (type png)
+<use 5TRrp44jc.png>
+Package pdftex.def Info: 5TRrp44jc.png  used on input line 132.
+(pdftex.def)             Requested size: 597.55113pt x 845.05399pt.
+<image4.jpg, id=32, 1059.96pt x 786.94pt>
 File: image4.jpg Graphic file (type jpg)
 <use image4.jpg>
-Package pdftex.def Info: image4.jpg  used on input line 139.
-(pdftex.def)             Requested size: 398.34123pt x 170.71378pt.
-
-Overfull \hbox (11.67711pt too wide) in paragraph at lines 139--140
-[][]\OT1/ptm/m/n/12 ; 
- []
-
-<image6.jpg, id=22, 1059.96pt x 786.94pt>
+Package pdftex.def Info: image4.jpg  used on input line 140.
+(pdftex.def)             Requested size: 284.52713pt x 142.25548pt.
+<image6.jpg, id=33, 1059.96pt x 786.94pt>
 File: image6.jpg Graphic file (type jpg)
 <use image6.jpg>
 Package pdftex.def Info: image6.jpg  used on input line 143.
-(pdftex.def)             Requested size: 398.34123pt x 170.71378pt.
-
-Overfull \hbox (11.67711pt too wide) in paragraph at lines 143--144
-[][]\OT1/ptm/m/n/12 ; 
- []
-
-<image7.jpg, id=23, 1059.96pt x 786.94pt>
+(pdftex.def)             Requested size: 284.52713pt x 142.25548pt.
+<image7.jpg, id=34, 1059.96pt x 786.94pt>
 File: image7.jpg Graphic file (type jpg)
 <use image7.jpg>
 Package pdftex.def Info: image7.jpg  used on input line 147.
-(pdftex.def)             Requested size: 398.34123pt x 170.71378pt.
-
-Overfull \hbox (11.67711pt too wide) in paragraph at lines 147--148
-[][]\OT1/ptm/m/n/12 ; 
- []
-
-[4 <./image4.jpg> <./image6.jpg> <./image7.jpg>]
+(pdftex.def)             Requested size: 284.52713pt x 142.25548pt.
+ [5 <./image4.jpg> <./image6.jpg> <./image7.jpg>]
+File: 5TRrp44jc.png Graphic file (type png)
+<use 5TRrp44jc.png>
+Package pdftex.def Info: 5TRrp44jc.png  used on input line 153.
+(pdftex.def)             Requested size: 597.55113pt x 845.05399pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 157.
- [5] (./Recruitment.aux) ) 
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 163.
+
+[6] (./Recruitment.aux) ) 
 Here is how much of TeX's memory you used:
- 11700 strings out of 492982
- 237607 string characters out of 6134895
- 272626 words of memory out of 5000000
- 15029 multiletter control sequences out of 15000+600000
+ 11739 strings out of 492982
+ 238324 string characters out of 6134895
+ 272865 words of memory out of 5000000
+ 15061 multiletter control sequences out of 15000+600000
  15376 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,54p,452b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8
-r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on Recruitment.pdf (5 pages, 586327 bytes).
+ 55i,8n,54p,452b,681s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r
+.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on Recruitment.pdf (6 pages, 841913 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 54 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
